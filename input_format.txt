@@ -1,0 +1,6 @@
+S [Start states]
+R [Rules - each rule is formatted "[start state][symbol][stack symbol][next state][pop stack][push stack][new stack symbol]", with each rule ending in ',']
+E [End (Terminal) states]
+
+NOTE:
+  '*' used to signify any symbol accepted.

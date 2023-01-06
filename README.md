@@ -1,2 +1,2 @@
-# PDA
-Pushdown Automata
+# DFSA
+Deterministic Finite State Automata
